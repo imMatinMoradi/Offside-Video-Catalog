@@ -192,13 +192,19 @@ MyVideos/
 
 ### 3. Run the Application
 
-Run the Python program:
+Open the Jupyter Notebook included in the project and run the cells in the following order:
 
-```bash
-python main.py
-```
+**Cell 1 — Update / Index**
 
-The application will scan `MyVideos` and display the available videos.
+Run the first cell to scan the `MyVideos` folder and update the video list and thumbnail index.
+
+**Cell 2 — Launch UI**
+
+Run the second cell to launch the Offside video gallery.
+
+The application will scan the `MyVideos` folder and display the available videos with their corresponding thumbnails.
+
+> **Note:** Make sure the `MyVideos` folder is located in the same directory as the Jupyter Notebook.
 
 ### 4. Browse and Search
 
