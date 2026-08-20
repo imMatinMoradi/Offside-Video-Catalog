@@ -1,8 +1,7 @@
-<div align="center">
-
-<img src="./logo.png" alt="Offside Logo" width="400" height="250">
+<div align="left">
 
 # Offside Video Catalog
+<img src="./logo.png" alt="Offside Logo" width="400" height="250">
 
 **A simple local video gallery and catalog for browsing, searching, and playing video files.**
 
