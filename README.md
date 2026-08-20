@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="Offside Logo" width="550" height="200">
+<img src="./logo.png" alt="Offside Logo" width="400" height="250">
 
 # Offside Video Catalog
 
